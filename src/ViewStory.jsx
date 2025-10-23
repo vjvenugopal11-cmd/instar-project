@@ -18,8 +18,6 @@ function ViewStory() {
     if (id > total || id <=0 ) {
       navigate('/');
      }
-  
-
   }
   return (
   <>
