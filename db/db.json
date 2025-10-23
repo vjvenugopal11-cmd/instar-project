@@ -1,0 +1,466 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user" :{
+        "id": 101,
+        "username": "iliena_92",
+      "profilePic": "src/assets/dp/image1.jpeg"
+      },
+      "image" : "src/assets/post/img1.jpeg",
+      "caption": "Enjoying the sunny day ☀️",
+      "likes": 124,
+      "comments": [
+        { "id": 1, "username": "alice", "text": "Nice pic! 🔥" },
+        { "id": 2, "username": "mike", "text": "Love this view 😍" }
+      ],
+      "timestamp": "2025-09-30T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "user" :{
+        "id": 102,
+      "username": "coffee_lover",
+      "profilePic": "src/assets/dp/boy.jpeg"
+    },
+      "image": "src/assets/post/img2.jpeg",
+      "caption": "Coffee first ☕ #morningvibes",
+      "likes": 89,
+      "comments": [
+        { "id": 1, "username": "tommy", "text": "Need one too 😂" }
+      ],
+      "timestamp": "2025-09-29T14:30:00Z"
+    },
+    {
+      "id": 3,
+        "user" :{
+            "id": 103,
+            "username": "apsara_24",
+            "profilePic": "src/assets/dp/gls.jpeg"
+         },
+      
+        "image": "src/assets/post/img3.jpeg",
+        "caption": "Mountains are calling 🏔️",
+        "likes": 210,
+      "comments": [
+        { "id": 1, "username": "lisa", "text": "Wow!! Where is this?" },
+        { "id": 2, "username": "alex", "text": "Dream trip ✨" }
+      ],
+      "timestamp": "2025-09-28T09:15:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "urban_snapper",
+        "profilePic": "src/assets/dp/Pfp.jpeg"
+      },
+      "image": "src/assets/post/street.jpg",
+      "caption": "City lights and late nights 🌃",
+      "likes": 132,
+      "comments": [
+        { "id": 1, "username": "maria", "text": "Vibe check ✅" }
+      ],
+      "timestamp": "2025-09-28T21:00:00Z"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "foodie_jane",
+        "profilePic": "src/assets/dp/i5.jpg"
+      },
+      "image": "src/assets/post/food.jpg",
+      "caption": "Pasta night 🍝✨",
+      "likes": 175,
+      "comments": [
+        { "id": 1, "username": "steve", "text": "Chef’s kiss 😋" },
+        { "id": 2, "username": "nancy", "text": "I’m hungry now 😂" }
+      ],
+      "timestamp": "2025-09-27T19:40:00Z"
+    },
+    {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "fitness_freak",
+        "profilePic": "src/assets/dp/i6.jpg"
+      },
+      "image": "src/assets/post/gym.jpg",
+      "caption": "Leg day ✅ #NoPainNoGain",
+      "likes": 245,
+      "comments": [
+        { "id": 1, "username": "josh", "text": "Respect bro 💪" }
+      ],
+      "timestamp": "2025-09-26T07:30:00Z"
+    },
+    {
+      "id": 7,
+      "user": {
+        "id": 107,
+        "username": "pet_paradise",
+        "profilePic": "src/assets/dp/i7.jpg"
+      },
+      "image": "src/assets/post/pet.jpg",
+      "caption": "Cuteness overload 🐶💖",
+      "likes": 412,
+      "comments": [
+        { "id": 1, "username": "jenny", "text": "So adorable 🥰" },
+        { "id": 2, "username": "max", "text": "I want one!" }
+      ],
+      "timestamp": "2025-09-25T16:50:00Z"
+    },
+    {
+      "id": 8,
+      "user": {
+        "id": 108,
+        "username": "artsy_vibes",
+        "profilePic": "src/assets/dp/i8.jpg"
+      },
+      "image": "src/assets/post/art.jpg",
+      "caption": "Colors speak louder than words 🎨",
+      "likes": 193,
+      "comments": [
+        { "id": 1, "username": "clara", "text": "Beautiful work!" }
+      ],
+      "timestamp": "2025-09-24T11:15:00Z"
+    },
+    {
+      "id": 9,
+      "user": {
+        "id": 109,
+        "username": "bookish_mind",
+        "profilePic": "src/assets/dp/i9.jpg"
+      },
+      "image": "src/assets/post/reading.jpg",
+      "caption": "Lost in pages 📖☕",
+      "likes": 148,
+      "comments": [
+        { "id": 1, "username": "ruby", "text": "Best way to spend the evening 💕" }
+      ],
+      "timestamp": "2025-09-23T20:00:00Z"
+    },
+    {
+      "id": 10,
+      "user": {
+        "id": 110,
+        "username": "sunny_trails",
+        "profilePic": "src/assets/dp/i10.jpg"
+      },
+      "image": "src/assets/post/hike.jpg",
+      "caption": "Hiking through paradise 🌲⛰️",
+      "likes": 302,
+      "comments": [
+        { "id": 1, "username": "ian", "text": "This view 🔥" }
+      ],
+      "timestamp": "2025-09-23T07:10:00Z"
+    },
+    {
+      "id": 11,
+      "user": {
+        "id": 111,
+        "username": "gadget_geek",
+        "profilePic": "src/assets/dp/i11.jpg "
+      },
+      "image": "src/assets/post/setup.jpg",
+      "caption": "New setup ready 💻✨",
+      "likes": 220,
+      "comments": [
+        { "id": 1, "username": "sam", "text": "That monitor 😍" }
+      ],
+      "timestamp": "2025-09-22T19:20:00Z"
+    },
+    {
+      "id": 12,
+      "user": {
+        "id": 112,
+        "username": "movie_buff",
+        "profilePic": "src/assets/dp/i12.jpg"
+      },
+      "image": "src/assets/post/movie.jpg",
+      "caption": "Movie marathon night 🎬🍿",
+      "likes": 145,
+      "comments": [
+        { "id": 1, "username": "dan", "text": "Count me in!" }
+      ],
+      "timestamp": "2025-09-22T21:40:00Z"
+    },
+    {
+      "id": 13,
+      "user": {
+        "id": 113,
+        "username": "travel_dreamer",
+        "profilePic": "src/assets/dp/i13.jpg"
+      },
+      "image": "src/assets/post/beach.jpg",
+      "caption": "Chasing sunsets 🌅 #BeachVibes",
+      "likes": 178,
+      "comments": [
+        { "id": 1, "username": "sunny", "text": "This looks amazing 😍" },
+        { "id": 2, "username": "mark", "text": "Where is this beach?" }
+      ],
+      "timestamp": "2025-09-21T18:45:00Z"
+    },
+    {
+      "id": 14,
+      "user": {
+        "id": 114,
+        "username": "music_mood",
+        "profilePic": "src/assets/dp/i14.jpg"
+      },
+      "image": "src/assets/post/guitor.jpg",
+      "caption": "Strumming my stress away 🎸",
+      "likes": 167,
+      "comments": [
+        { "id": 1, "username": "zoe", "text": "Such a vibe!" }
+      ],
+      "timestamp": "2025-09-21T10:10:00Z"
+    },
+    {
+      "id": 15,
+      "user": {
+        "id": 115,
+        "username": "fashion_diva",
+        "profilePic": "src/assets/dp/fashion.jpg"
+      },
+      "image": "src/assets/post/outfit.jpg",
+      "caption": "Weekend outfit inspo 👗✨",
+      "likes": 256,
+      "comments": [
+        { "id": 1, "username": "mia", "text": "You look amazing!" }
+      ],
+      "timestamp": "2025-09-20T16:00:00Z"
+    },
+    {
+      "id": 16,
+      "user": {
+        "id": 116,
+        "username": "coding_nerd",
+        "profilePic": "src/assets/dp/code.jpg"
+      },
+      "image": "src/assets/post/laptop.jpg",
+      "caption": "Code. Coffee. Repeat. 💻☕",
+      "likes": 310,
+      "comments": [
+        { "id": 1, "username": "dev_guy", "text": "Same life bro 😂" }
+      ],
+      "timestamp": "2025-09-19T22:10:00Z"
+    },
+    {
+      "id": 17,
+      "user": {
+        "id": 117,
+        "username": "chef_raj",
+        "profilePic": "src/assets/dp/chef.jpg"
+      },
+      "image": "src/assets/post/dish.jpg",
+      "caption": "Spice it up! 🌶️ #HomeMade",
+      "likes": 133,
+      "comments": [
+        { "id": 1, "username": "amy", "text": "Looks delicious 😋" }
+      ],
+      "timestamp": "2025-09-19T12:30:00Z"
+    },
+    {
+      "id": 18,
+      "user": {
+        "id": 118,
+        "username": "nature_lover",
+        "profilePic": "src/assets/dp/dp/tree.jpg"
+      },
+      "image": "src/assets/post/forest.jpg",
+      "caption": "Nature is the best therapy 🌿",
+      "likes": 270,
+      "comments": [
+        { "id": 1, "username": "leo", "text": "This place is heaven 😍" }
+      ],
+      "timestamp": "2025-09-18T07:00:00Z"
+    },
+    {
+      "id": 19,
+      "user": {
+        "id": 119,
+        "username": "bike_rider",
+        "profilePic": "src/assets/dp/dp/bikeboy.jpg"
+      },
+      "image": "src/assets/post/bikens200.jpg",
+      "caption": "Weekend ride 🏍️💨",
+      "likes": 295,
+      "comments": [
+        { "id": 1, "username": "rick", "text": "Speed goals!" }
+      ],
+      "timestamp": "2025-09-17T08:30:00Z"
+    },
+    {
+      "id": 20,
+      "user": {
+        "id": 120,
+        "username": "gamer_zone",
+        "profilePic": "src/assets/dp/dp/gamer.jpg"
+      },
+      "image": "src/assets/post/game.jpg",
+      "caption": "Level up 🎮🔥",
+      "likes": 222,
+      "comments": [
+        { "id": 1, "username": "ben", "text": "Let’s play together!" }
+      ],
+      "timestamp": "2025-09-17T23:00:00Z"
+    },
+    {
+      "id": 21,
+      "user": {
+        "id": 121,
+        "username": "sky_dreams",
+        "profilePic": "src/assets/dp/sky.jpg"
+      },
+      "image": "src/assets/post/cloud.jpg",
+      "caption": "Clouds are poetry ☁️",
+      "likes": 190,
+      "comments": [
+        { "id": 1, "username": "ella", "text": "Dreamy!" }
+      ],
+      "timestamp": "2025-09-16T15:45:00Z"
+    },
+    {
+      "id": 22,
+      "user": {
+        "id": 122,
+        "username": "car_enthusiast",
+        "profilePic": "src/assets/dp/dance.jpg"
+      },
+      "image": "src/assets/post/racecar.jpg",
+      "caption": "Clean lines. Pure power. 🚗💨",
+      "likes": 310,
+      "comments": [
+        { "id": 1, "username": "ron", "text": "That car 🔥🔥" }
+      ],
+      "timestamp": "2025-09-15T17:00:00Z"
+    },
+    {
+      "id": 23,
+      "user": {
+        "id": 123,
+        "username": "tech_girl",
+        "profilePic": "src/assets/dp/techgirl.jpg"
+      },
+      "image": "src/assets/post/device.jpg",
+      "caption": "Testing the new gadget 💡📱",
+      "likes": 162,
+      "comments": [
+        { "id": 1, "username": "kevin", "text": "How’s the camera?" }
+      ],
+      "timestamp": "2025-09-14T19:20:00Z"
+    },
+    {
+      "id": 24,
+      "user": {
+        "id": 124,
+        "username": "dance_moves",
+        "profilePic": "src/assets/dp/dance.jpg"
+      },
+      "image": "src/assets/post/dancer.jpg",
+      "caption": "Feel the rhythm 💃🔥",
+      "likes": 281,
+      "comments": [
+        { "id": 1, "username": "sofia", "text": "Amazing performance!" }
+      ],
+      "timestamp": "2025-09-14T22:00:00Z"
+    }
+  ],
+
+
+
+  "profile" :{
+    
+        "id": 125,
+        "username": "Venzo",
+      "profilePic": "src/assets/dp/venzo.jpg"
+      },
+  
+
+  "Suggestions" :[
+     {
+        "id": 126,
+        "username": "rahul__rs",
+      "profilePic": "src/assets/dp/rahul.png"
+      },
+       {
+        "id": 127,
+        "username": "sk__kisa",
+      "profilePic": "src/assets/dp/kisa.png"
+      },
+      {
+        "id": 128,
+        "username": "kunjan_jeeva",
+      "profilePic": "src/assets/dp/jeeva.png"
+      },
+       {
+        "id": 129,
+        "username": "tvk_official",
+      "profilePic": "src/assets/dp/tvk.jpg"
+      },
+      {
+        "id": 130,
+        "username": "munima_24",
+      "profilePic": "src/assets/dp/munima.jpg"
+      }
+  ],
+
+
+    "story": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "iliena_92",
+        "profilePic": "/assets/image1.jpeg"
+      },
+      "image": "/assets/sty1.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "coffee_lover",
+        "profilePic": "/assets/boy.jpeg"
+      },
+      "image": "/assets/sty2.jpg"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "apsara_24",
+        "profilePic": "/assets/gls.jpeg"
+      },
+      "image": "/assets/sty3.jpg"
+    },
+     {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "urban_snapper",
+        "profilePic": "/assets/Pfp.jpeg"
+      },
+      "image": "/assets/sty4.jpg"
+    },
+     {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "foodie_jane",
+        "profilePic": "/assets/i5.jpg"
+      },
+      "image": "/assets/sty5.jpg"
+    },
+     {
+      "id": 6,
+      "user": {
+        "id": 106,
+        "username": "fitness_freak",
+        "profilePic": "/assets/i6.jpg"
+      },
+      "image": "/assets/sty6.jpg"
+    } 
+  ]
+}
